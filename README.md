@@ -5,14 +5,14 @@
 This project analyzes customer spend data for International Essentials to investigate whether loyalty tenure is the biggest driver of annual spend. I have built and compared multiple predictive models to forecast customer spending, providing actionable insights for marketing and retention strategies.
 Project Structure
 
-├── loyalty.csv               # Raw customer loyalty data
-├── train.csv                 # Training data for model fitting
-├── test.csv                  # Test data for predictions
-├── clean_data                # Cleaned and preprocessed dataframe
-├── spend_by_years            # Average spend and variance by loyalty years
-├── base_result               # Baseline model predictions (customer_id, spend)
-├── compare_result            # Comparison model predictions (customer_id, spend)
-└── README.md                 # Project documentation
+- loyalty.csv               # Raw customer loyalty data
+- train.csv                 # Training data for model fitting
+- test.csv                  # Test data for predictions
+- clean_data                # Cleaned and preprocessed dataframe
+- spend_by_years            # Average spend and variance by loyalty years
+- base_result               # Baseline model predictions (customer_id, spend)
+- compare_result            # Comparison model predictions (customer_id, spend)
+- README.md                 # Project documentation
 
 ## Key Steps
 
